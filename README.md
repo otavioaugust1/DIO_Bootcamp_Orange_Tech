@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="img\Bootcamp_Orange_Tech.png" width="400px;">
+      <img src="img\Bootcamp_Orange_Tech.png" width="800px;">
     </td>
     <td>
       <p> O Orange tech + é um projeto para você que deseja aprender do zero desenvolvimento front-end e back-end e tem o propósito de se preparar de verdade para as melhores vagas do mercado de tecnologia. O primeiro bootcamp do programa será uma trilha gratuita lançada pelo Inter, em parceria com a DIO, que vai abordar desde o princípio as tecnologias JavaScript, HTML, CSS, Typescript e React. Após esse programa, os participantes terão direito a participar de uma trilha completa de back-end. Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o Inter disponibilizou 7 mil bolsas de estudos gratuitas. Essa é a sua oportunidade de ter mais visibilidade e impulsionar a representatividade e inclusão no mercado da tecnologia.</p>
@@ -43,23 +43,23 @@
     <li><a href="desafio\Validação de Parênteses">Desafio: Validação de Parênteses  &#x274C;</a></li> 
 </ul><br>
 
-<h2><strong>Progresso das Atividades:  </strong><progress value="0" max="100"></progress> 0%</h2>
+<h2><strong>Progresso das Atividades:  </strong><progress value="20" max="100"></progress> 20%</h2>
 <ul>
   <li>Prepare-se Para a Jornada (Onboarding)</a></li>
-    <ul><em>Atividades: 8/8</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Princípios de Desenvolvimento de Software</a></li>
-    <ul><em>Atividades: 21/21</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 4/4</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Primeiras Páginas Interativas com JavaScript</a></li>
-    <ul><em>Atividades: 17/17</em>  <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 0/9</em>  <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Dominando Algoritmos Básicos com Desafios de Código JavaScript </a></li>
-    <ul><em>Atividades: 6/6</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Começando na Biblioteca React </a></li>
-    <ul><em>Atividades: 5/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 0/12</em> <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Dominando Algoritmos Intermediários com Desafios de Código JavaScript </a></li>
-    <ul><em>Atividades: 5/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Fortalecendo sua Carreira Profissional</a></li>
-    <ul><em>Atividades: 5/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
-</ul><br>
+    <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
+</ul><br> //45
 
 
 
