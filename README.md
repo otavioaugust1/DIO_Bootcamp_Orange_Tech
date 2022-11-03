@@ -59,7 +59,7 @@
     <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Fortalecendo sua Carreira Profissional</a></li>
     <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
-</ul><br> //45
+</ul><br>
 
 
 
@@ -77,3 +77,4 @@
     </td>
   </tr>    
 </table>
+(45)
