@@ -15,7 +15,7 @@
  
 <h2><strong>Desafios de projeto: </strong><progress value="0" max="100"></progress> 0%</h2>
 <ul>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados">
+  <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Orange_Tech">
   Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
   <li><a href="">
   Construindo uma Pokédex com JavaScript  &#x274C;</a></li>
