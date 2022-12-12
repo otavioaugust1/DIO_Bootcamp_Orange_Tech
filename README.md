@@ -13,12 +13,12 @@
   </tr>
 </table>
  
-<h2><strong>Desafios de projeto: </strong><progress value="0" max="100"></progress> 0%</h2>
+<h2><strong>Desafios de projeto: </strong><progress value="35" max="100"></progress> 35%</h2>
 <ul>
   <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Orange_Tech">
   Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
-  <li><a href="">
-  Construindo uma Pokédex com JavaScript  &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_js-developer-pokedex">
+  Construindo uma Pokédex com JavaScript  &#x2705;</a></li>
   <li><a href="">
   Criando Uma Calculadora Com React  &#x274C;</a></li>
   <li><a href="">
@@ -29,21 +29,21 @@
   Implementando Uma Tela de Login Com Validação Usando TypeScript  &#x274C;</a></li> 
 </ul>
 
-<h2><strong>Desafios de Codigo:  </strong><progress value="0" max="100"></progress> 0%</h2>
+<h2><strong>Desafios de Codigo:  </strong><progress value="100" max="100"></progress> 100%</h2>
 <ul>
     <li><a href="desafio\Somando Múltiplos">Desafio: Somando Múltiplos  &#x2705;</a></li>
     <li><a href="desafio\FizzBuzz">Desafio: FizzBuzz  &#x2705;</a></li>
     <li><a href="desafio\Uma Chamada Recursiva">Desafio: Uma Chamada Recursiva  &#x2705;</a></li>
     <li><a href="desafio\Os Números São Iguais">Desafio: Os Números São Iguais  &#x2705;</a></li>
     <li><a href="desafio\Busca Sequencial">Desafio: Busca Sequencial &#x2705; </a></li> 
-    <li><a href="desafio\Fatorial Desajeitado">Desafio: Fatorial Desajeitado  &#x274C;</a></li> 
-    <li><a href="desafio\Checagem de Palindromos">Desafio: Checagem de Palindromos  &#x274C;</a></li> 
-    <li><a href="desafio\Quadrados Perfeitos">Desafio: Quadrados Perfeitos  &#x274C;</a></li> 
-    <li><a href="desafio\Matriz Par e Impar">Desafio: Matriz Par e Impar  &#x274C;</a></li> 
-    <li><a href="desafio\Validação de Parênteses">Desafio: Validação de Parênteses  &#x274C;</a></li> 
+    <li><a href="desafio\Fatorial Desajeitado">Desafio: Fatorial Desajeitado  &#x2705;</a></li> 
+    <li><a href="desafio\Checagem de Palindromos">Desafio: Checagem de Palindromos  &#x2705;</a></li> 
+    <li><a href="desafio\Quadrados Perfeitos">Desafio: Quadrados Perfeitos  &#x2705;</a></li> 
+    <li><a href="desafio\Matriz Par e Impar">Desafio: Matriz Par e Impar  &#x2705;</a></li> 
+    <li><a href="desafio\Validação de Parênteses">Desafio: Validação de Parênteses  &#x2705;</a></li> 
 </ul><br>
 
-<h2><strong>Progresso das Atividades:  </strong><progress value="20" max="100"></progress> 20%</h2>
+<h2><strong>Progresso das Atividades:  </strong><progress value="45" max="100"></progress> 45%</h2>
 <ul>
   <li>Prepare-se Para a Jornada (Onboarding)</a></li>
     <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
@@ -52,11 +52,11 @@
   <li>Primeiras Páginas Interativas com JavaScript</a></li>
     <ul><em>Atividades: 0/9</em>  <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Dominando Algoritmos Básicos com Desafios de Código JavaScript </a></li>
-    <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Começando na Biblioteca React </a></li>
     <ul><em>Atividades: 0/12</em> <progress value="0" max="100"></progress> 0%</ul><br>
   <li>Dominando Algoritmos Intermediários com Desafios de Código JavaScript </a></li>
-    <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Fortalecendo sua Carreira Profissional</a></li>
     <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
 </ul><br>
