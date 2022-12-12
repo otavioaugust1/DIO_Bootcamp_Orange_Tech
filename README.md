@@ -31,11 +31,11 @@
 
 <h2><strong>Desafios de Codigo:  </strong><progress value="0" max="100"></progress> 0%</h2>
 <ul>
-    <li><a href="desafio\Somando Múltiplos">Desafio: Somando Múltiplos  &#x274C;</a></li>
-    <li><a href="desafio\FizzBuzz">Desafio: FizzBuzz  &#x274C;</a></li>
-    <li><a href="desafio\Uma Chamada Recursiva">Desafio: Uma Chamada Recursiva  &#x274C;</a></li>
-    <li><a href="desafio\Os Números São Iguais">Desafio: Os Números São Iguais  &#x274C;</a></li>
-    <li><a href="desafio\Busca Sequencial">Desafio: Busca Sequencial  &#x274C;</a></li> 
+    <li><a href="desafio\Somando Múltiplos">Desafio: Somando Múltiplos  &#x2705;</a></li>
+    <li><a href="desafio\FizzBuzz">Desafio: FizzBuzz  &#x2705;</a></li>
+    <li><a href="desafio\Uma Chamada Recursiva">Desafio: Uma Chamada Recursiva  &#x2705;</a></li>
+    <li><a href="desafio\Os Números São Iguais">Desafio: Os Números São Iguais  &#x2705;</a></li>
+    <li><a href="desafio\Busca Sequencial">Desafio: Busca Sequencial &#x2705; </a></li> 
     <li><a href="desafio\Fatorial Desajeitado">Desafio: Fatorial Desajeitado  &#x274C;</a></li> 
     <li><a href="desafio\Checagem de Palindromos">Desafio: Checagem de Palindromos  &#x274C;</a></li> 
     <li><a href="desafio\Quadrados Perfeitos">Desafio: Quadrados Perfeitos  &#x274C;</a></li> 
