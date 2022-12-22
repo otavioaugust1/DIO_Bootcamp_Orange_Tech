@@ -58,7 +58,7 @@
   <li>Dominando Algoritmos Intermediários com Desafios de Código JavaScript </a></li>
     <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Fortalecendo sua Carreira Profissional</a></li>
-    <ul><em>Atividades: 0/5</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
 </ul><br>
 
 
